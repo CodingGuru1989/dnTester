@@ -12,7 +12,7 @@ The tester is useful in some other scenario. Say, one hacker claims to crack you
 
 ----------
 
-Q : Some target can be unpacked by de4dot, but your tester reports it safe?
+Q : Some target can be unpacked by [de4dot](https://github.com/0xd4d/de4dot), but your tester reports it safe?
 
 A : de4dot is an deobfuscator which will make you code viewable, however, it doesn't say how difficult your software is vulnerable to attacks, say, code injection.
 

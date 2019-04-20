@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnpackerTesterLib", "dnTest
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoaderTesterLib", "dnTester.Lib\LoaderTesterLib\LoaderTesterLib.csproj", "{763A26D9-06AC-45DD-B3E3-606F90086E35}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoaderTester.Console", "dnTester.Console\LoaderTester.Console\LoaderTester.Console.csproj", "{224215F1-6385-4579-819E-10D3D11392B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnpackerTester.Console", "dnTester.Console\UnpackerTester.Console\UnpackerTester.Console.csproj", "{B3D65FB2-A54E-48CE-B7B0-552711BA4F3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{763A26D9-06AC-45DD-B3E3-606F90086E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{763A26D9-06AC-45DD-B3E3-606F90086E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{763A26D9-06AC-45DD-B3E3-606F90086E35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224215F1-6385-4579-819E-10D3D11392B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224215F1-6385-4579-819E-10D3D11392B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224215F1-6385-4579-819E-10D3D11392B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224215F1-6385-4579-819E-10D3D11392B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D65FB2-A54E-48CE-B7B0-552711BA4F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D65FB2-A54E-48CE-B7B0-552711BA4F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D65FB2-A54E-48CE-B7B0-552711BA4F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D65FB2-A54E-48CE-B7B0-552711BA4F3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

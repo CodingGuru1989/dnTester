@@ -1,10 +1,19 @@
+//
+// Author:
+//   Tianjiao(Wang Genghuang) (https://github.com/Tianjiao)
+//
+// Copyright (c) 2019 Tianjiao(Wang Genghuang)
+//
+// Licensed under the MIT license.
+//
+
 using System.Reflection;
 
 namespace dnTester.Lib.LoaderTester
 {
     public class LoaderTester
     {
-        static bool LoaderTest(string filePath)
+        public static bool LoaderTest(string filePath)
         {
             var assembly = Assembly.LoadFile(filePath);
             

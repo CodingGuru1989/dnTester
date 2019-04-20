@@ -1,3 +1,12 @@
+//
+// Author:
+//   Tianjiao(Wang Genghuang) (https://github.com/Tianjiao)
+//
+// Copyright (c) 2019 Tianjiao(Wang Genghuang)
+//
+// Licensed under the MIT license.
+//
+
 using System;
 using System.IO;
 using System.Reflection.Metadata;

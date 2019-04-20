@@ -3,6 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFrameworks>net472;netcoreapp2.2</TargetFrameworks>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>..\..\dnTester.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,5 +1,7 @@
 # dnTester
 
+[![Donatecoins](http://donatecoins.org/btc/38sio1bqo4NGCvyppFYDL5nNHvDbEJTNU5.svg)](http://donatecoins.org/btc/38sio1bqo4NGCvyppFYDL5nNHvDbEJTNU5)
+
 If an experienced cracker has heard of your software, and develops some unpacker which can make your code viewable in an decompiler, this is something that you have to be prepared for, since .NET code is compiled into the Intermediate Language which is readable by humans.
 
 However, if it comes into Attack, say, code injection, things become interesting. Each protector, even among their own versions, deploys different mechanisms to protect the .NET code, some are useful but some are eye-candy.

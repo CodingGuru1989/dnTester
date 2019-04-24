@@ -24,7 +24,7 @@ namespace UnpackerTester.Console
             System.Console.WriteLine("Usage: UnpackerTester.Console.exe [OPTIONS]+ message");
             System.Console.WriteLine("Test the obfuscated assembly.");
             System.Console.WriteLine("If no message is specified, a help message is shown.");
-            System.Console.WriteLine();
+            System.Console.WriteLine("Source Code: https://github.com/Tianjiao/dnTester");
 
             // output the options
             System.Console.WriteLine("Options:");
